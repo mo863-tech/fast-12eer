@@ -1,0 +1,3 @@
+fastapi
+sqlite 3 
+pydantic
